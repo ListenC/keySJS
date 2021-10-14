@@ -42,7 +42,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【仮想試練ショップ】\n試練コイン×800",
             "skill1CT": "6",
@@ -111,7 +111,11 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "001",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 2,
@@ -154,7 +158,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n2-2/10-2/13-1",
             "skill1CT": "6",
@@ -225,7 +229,12 @@
                 "大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "002",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 3,
@@ -272,7 +281,7 @@
             "faction": "魔術サイド\n科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "008.jpg",
+            "attackDirection": "008",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n4-3\n【共闘ドロップ(曜日)】\n月/水",
             "skill1CT": "5",
@@ -347,7 +356,11 @@
                 "自身",
                 "特大威力"
             ]
-        }
+        },
+        "img": "003",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 4,
@@ -392,7 +405,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n3-1/6-2/R1-1",
             "skill1CT": "5",
@@ -461,7 +474,11 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "004",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 5,
@@ -507,7 +524,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "021.jpg",
+            "attackDirection": "021",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n8-3\n【共闘ドロップ(曜日)】\n火/木",
             "skill1CT": "6",
@@ -579,7 +596,13 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "005",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 6,
@@ -624,7 +647,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【異能決戦ショップ】\n決戦コイン×800",
             "skill1CT": "6",
@@ -693,7 +716,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "006",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 7,
@@ -738,7 +766,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "032.jpg",
+            "attackDirection": "032",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n3-4/12-3",
             "skill1CT": "8",
@@ -807,7 +835,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "007",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 8,
@@ -850,7 +883,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n11-1",
             "skill1CT": "8",
@@ -917,7 +950,12 @@
                 "全体敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "008",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 9,
@@ -959,7 +997,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "007.jpg",
+            "attackDirection": "007",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【異能決戦ショップ】\n決戦コイン×800",
             "skill1CT": "5",
@@ -1027,7 +1065,13 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "009",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 10,
@@ -1072,7 +1116,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n9-2/14-1",
             "skill1CT": "5",
@@ -1141,7 +1185,11 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "010",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 11,
@@ -1186,7 +1234,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "008.jpg",
+            "attackDirection": "008",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n1-2/R2-2",
             "skill1CT": "6",
@@ -1255,7 +1303,11 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "011",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 12,
@@ -1301,7 +1353,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【共闘ショップ】\n共闘コイン×800",
             "skill1CT": "5",
@@ -1371,7 +1423,12 @@
                 "自身",
                 "中威力"
             ]
-        }
+        },
+        "img": "012",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 13,
@@ -1416,7 +1473,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【共闘ショップ】\n共闘コイン×800",
             "skill1CT": "6",
@@ -1489,7 +1546,12 @@
                 "魔术侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "013",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 14,
@@ -1562,7 +1624,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异防向上"
@@ -1589,7 +1651,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "014",
+        "arrow": ""
     },
     {
         "ID": 15,
@@ -1691,7 +1755,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "015",
+        "arrow": ""
     },
     {
         "ID": 16,
@@ -1793,7 +1859,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "016",
+        "arrow": ""
     },
     {
         "ID": 17,
@@ -1895,7 +1963,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "017",
+        "arrow": ""
     },
     {
         "ID": 18,
@@ -1999,7 +2069,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "018",
+        "arrow": ""
     },
     {
         "ID": 19,
@@ -2103,7 +2175,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "019",
+        "arrow": ""
     },
     {
         "ID": 20,
@@ -2207,7 +2281,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "020",
+        "arrow": ""
     },
     {
         "ID": 21,
@@ -2311,7 +2387,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "021",
+        "arrow": ""
     },
     {
         "ID": 22,
@@ -2413,7 +2491,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "022",
+        "arrow": ""
     },
     {
         "ID": 23,
@@ -2515,7 +2595,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "023",
+        "arrow": ""
     },
     {
         "ID": 24,
@@ -2613,7 +2695,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "024",
+        "arrow": ""
     },
     {
         "ID": 25,
@@ -2717,7 +2801,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "025",
+        "arrow": ""
     },
     {
         "ID": 26,
@@ -2821,7 +2907,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "026",
+        "arrow": ""
     },
     {
         "ID": 27,
@@ -2925,7 +3013,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "027",
+        "arrow": ""
     },
     {
         "ID": 28,
@@ -2970,7 +3060,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "物理攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n5-3/12-2/R1-2\n【共闘ドロップ(曜日)】\n水/木",
             "skill1CT": "5",
@@ -3037,7 +3127,12 @@
             "nirvanaSearchS": [
                 "攻击范围内的敌人"
             ]
-        }
+        },
+        "img": "028",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 29,
@@ -3083,7 +3178,7 @@
             "faction": "魔術サイド\n科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【異能決戦ショップ】\n決戦コイン×800",
             "skill1CT": "6",
@@ -3153,7 +3248,11 @@
                 "自身",
                 "自身和两临的角色"
             ]
-        }
+        },
+        "img": "029",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 30,
@@ -3197,7 +3296,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "011.jpg",
+            "attackDirection": "011",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【仮想試練ショップ】\n試練コイン×800",
             "skill1CT": "4",
@@ -3269,7 +3368,12 @@
                 "科学侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "030",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 31,
@@ -3313,7 +3417,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n3-3/6-1/12-1",
             "skill1CT": "6",
@@ -3381,7 +3485,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "031",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 32,
@@ -3426,7 +3535,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "011.jpg",
+            "attackDirection": "011",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【共闘ショップ】\n共闘コイン×800",
             "skill1CT": "6",
@@ -3495,7 +3604,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "032",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 33,
@@ -3537,7 +3651,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n5-1/11-3/14-4",
             "skill1CT": "6",
@@ -3607,7 +3721,12 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "033",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 34,
@@ -3653,7 +3772,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "032.jpg",
+            "attackDirection": "032",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n8-4/13-2/R2-1",
             "skill1CT": "6",
@@ -3721,7 +3840,12 @@
             "nirvanaSearchS": [
                 "自身和两临的角色"
             ]
-        }
+        },
+        "img": "034",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 35,
@@ -3765,7 +3889,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "物理攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n4-1\n【仮想試練ショップ】\n試練コイン×800",
             "skill1CT": "5",
@@ -3833,7 +3957,11 @@
                 "正面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "035",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 36,
@@ -3877,7 +4005,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "物理攻撃",
-            "attackDirection": "008.jpg",
+            "attackDirection": "008",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n2-1\n【共闘ドロップ(曜日)】\n水/日",
             "skill1CT": "5",
@@ -3947,7 +4075,11 @@
                 "正面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "036",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 37,
@@ -3992,7 +4124,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "033.jpg",
+            "attackDirection": "033",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n3-2/8-2\n【共闘ドロップ(曜日)】\n火",
             "skill1CT": "5",
@@ -4063,7 +4195,12 @@
                 "科学侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "037",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 38,
@@ -4108,7 +4245,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n7-4/10-3/R3-3",
             "skill1CT": "5",
@@ -4175,7 +4312,11 @@
             "nirvanaSearchS": [
                 "自身和两临的角色"
             ]
-        }
+        },
+        "img": "038",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 39,
@@ -4222,7 +4363,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆2",
             "attackMethod": "物理攻撃",
-            "attackDirection": "014.jpg",
+            "attackDirection": "014",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【異能大戦ショップ】\n大戦コイン×800",
             "skill1CT": "5",
@@ -4291,7 +4432,13 @@
             "nirvanaSearchS": [
                 "自身"
             ]
-        }
+        },
+        "img": "039",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 40,
@@ -4336,7 +4483,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆2",
             "attackMethod": "物理攻撃",
-            "attackDirection": "022.jpg",
+            "attackDirection": "022",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n7-3\n【共闘ドロップ(曜日)】\n土/日",
             "skill1CT": "5",
@@ -4403,7 +4550,11 @@
             "nirvanaSearchS": [
                 "自身和两临的角色"
             ]
-        }
+        },
+        "img": "040",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 41,
@@ -4448,7 +4599,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆2",
             "attackMethod": "物理攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n2-3/11-2/R3-1",
             "skill1CT": "5",
@@ -4515,7 +4666,12 @@
             "nirvanaSearchS": [
                 "自身和右临的角色"
             ]
-        }
+        },
+        "img": "041",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 42,
@@ -4560,7 +4716,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "011.jpg",
+            "attackDirection": "011",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n4-4\n【共闘ドロップ(曜日)】\n火/金",
             "skill1CT": "6",
@@ -4629,7 +4785,12 @@
                 "我方全体",
                 "某属性的我方全体"
             ]
-        }
+        },
+        "img": "042",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 43,
@@ -4675,7 +4836,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆2",
             "attackMethod": "物理攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n2-4\n【共闘ドロップ(曜日)】\n木/土",
             "skill1CT": "5",
@@ -4743,7 +4904,12 @@
             "nirvanaSearchS": [
                 "自身"
             ]
-        }
+        },
+        "img": "043",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 44,
@@ -4789,7 +4955,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆2",
             "attackMethod": "異能攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n9-4\n【仮想試練ショップ】\n試練コイン×800",
             "skill1CT": "5",
@@ -4859,7 +5025,11 @@
                 "我方全体",
                 "某属性的我方全体"
             ]
-        }
+        },
+        "img": "044",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 45,
@@ -4963,7 +5133,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "045",
+        "arrow": ""
     },
     {
         "ID": 46,
@@ -5065,7 +5237,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "046",
+        "arrow": ""
     },
     {
         "ID": 47,
@@ -5167,7 +5341,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "047",
+        "arrow": ""
     },
     {
         "ID": 48,
@@ -5267,7 +5443,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "048",
+        "arrow": ""
     },
     {
         "ID": 49,
@@ -5369,7 +5547,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "049",
+        "arrow": ""
     },
     {
         "ID": 50,
@@ -5473,7 +5653,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "050",
+        "arrow": ""
     },
     {
         "ID": 51,
@@ -5577,7 +5759,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "051",
+        "arrow": ""
     },
     {
         "ID": 52,
@@ -5679,7 +5863,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "052",
+        "arrow": ""
     },
     {
         "ID": 53,
@@ -5781,7 +5967,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "053",
+        "arrow": ""
     },
     {
         "ID": 54,
@@ -5885,7 +6073,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "054",
+        "arrow": ""
     },
     {
         "ID": 55,
@@ -5985,7 +6175,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "055",
+        "arrow": ""
     },
     {
         "ID": 56,
@@ -6087,7 +6279,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "056",
+        "arrow": ""
     },
     {
         "ID": 57,
@@ -6189,7 +6383,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "057",
+        "arrow": ""
     },
     {
         "ID": 58,
@@ -6285,7 +6481,9 @@
             "skill1SearchS": [],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "058",
+        "arrow": ""
     },
     {
         "ID": 59,
@@ -6389,7 +6587,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "059",
+        "arrow": ""
     },
     {
         "ID": 60,
@@ -6489,7 +6689,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "060",
+        "arrow": ""
     },
     {
         "ID": 61,
@@ -6533,7 +6735,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n1-4/5-4/6-3/R3-1",
             "skill1CT": "5",
@@ -6601,7 +6803,12 @@
                 "正面的敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "061",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 62,
@@ -6646,7 +6853,7 @@
             "faction": "魔術サイド\n科学サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -6715,7 +6922,11 @@
                 "自身",
                 "我方全体"
             ]
-        }
+        },
+        "img": "062",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 63,
@@ -6756,7 +6967,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆1",
             "attackMethod": "異能攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n8-2/12-1/13-1/R1-2",
             "skill1CT": "4",
@@ -6823,7 +7034,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "063",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 64,
@@ -6865,7 +7081,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "025.jpg",
+            "attackDirection": "025",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n10-1/13-2/R1-3",
             "skill1CT": "4",
@@ -6933,7 +7149,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "064",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 65,
@@ -6978,7 +7199,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆1",
             "attackMethod": "異能攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n8-1",
             "skill1CT": "5",
@@ -7045,7 +7266,11 @@
             "nirvanaSearchS": [
                 "自身"
             ]
-        }
+        },
+        "img": "065",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 66,
@@ -7089,7 +7314,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "008.jpg",
+            "attackDirection": "008",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n5-2/8-4/14-3\n【共闘ドロップ(曜日)】\n月/木",
             "skill1CT": "5",
@@ -7155,7 +7380,11 @@
             "nirvanaSearchS": [
                 "自身和两临的角色"
             ]
-        }
+        },
+        "img": "066",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 67,
@@ -7197,7 +7426,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆1",
             "attackMethod": "異能攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【共闘ショップ】\n共闘コイン×800",
             "skill1CT": "4",
@@ -7265,7 +7494,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "067",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 68,
@@ -7309,7 +7543,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "異能攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n1-1/1-3",
             "skill1CT": "6",
@@ -7375,7 +7609,12 @@
             "nirvanaSearchS": [
                 "我方全体"
             ]
-        }
+        },
+        "img": "068",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 69,
@@ -7420,7 +7659,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n4-2/7-3",
             "skill1CT": "6",
@@ -7487,7 +7726,12 @@
             "nirvanaSearchS": [
                 "自身"
             ]
-        }
+        },
+        "img": "069",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 70,
@@ -7532,7 +7776,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n6-4",
             "skill1CT": "5",
@@ -7595,7 +7839,11 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "070",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 71,
@@ -7640,7 +7888,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "022.jpg",
+            "attackDirection": "022",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n7-4\n【共闘ドロップ(曜日)】\n月",
             "skill1CT": "6",
@@ -7707,7 +7955,11 @@
             "nirvanaSearchS": [
                 "自身"
             ]
-        }
+        },
+        "img": "071",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 72,
@@ -7751,7 +8003,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n7-1\n【共闘ドロップ(曜日)】\n金/日",
             "skill1CT": "5",
@@ -7817,7 +8069,12 @@
             "nirvanaSearchS": [
                 "我方全体"
             ]
-        }
+        },
+        "img": "072",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 73,
@@ -7862,7 +8119,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "物理攻撃",
-            "attackDirection": "032.jpg",
+            "attackDirection": "032",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n7-2\n【共闘ドロップ(曜日)】\n金/土",
             "skill1CT": "5",
@@ -7929,7 +8186,12 @@
             "nirvanaSearchS": [
                 "我方全体"
             ]
-        }
+        },
+        "img": "073",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 74,
@@ -7973,7 +8235,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "異能攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n10-4/R2-3",
             "skill1CT": "6",
@@ -8039,7 +8301,12 @@
             "nirvanaSearchS": [
                 "我方全体"
             ]
-        }
+        },
+        "img": "074",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 75,
@@ -8084,7 +8351,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆1",
             "attackMethod": "異能攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n5-3",
             "skill1CT": "5",
@@ -8151,7 +8418,12 @@
             "nirvanaSearchS": [
                 "自身"
             ]
-        }
+        },
+        "img": "075",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 76,
@@ -8253,7 +8525,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "076",
+        "arrow": ""
     },
     {
         "ID": 77,
@@ -8355,7 +8629,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "077",
+        "arrow": ""
     },
     {
         "ID": 78,
@@ -8455,7 +8731,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "078",
+        "arrow": ""
     },
     {
         "ID": 79,
@@ -8555,7 +8833,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "079",
+        "arrow": ""
     },
     {
         "ID": 80,
@@ -8657,7 +8937,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "080",
+        "arrow": ""
     },
     {
         "ID": 81,
@@ -8759,7 +9041,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "081",
+        "arrow": ""
     },
     {
         "ID": 82,
@@ -8859,7 +9143,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "082",
+        "arrow": ""
     },
     {
         "ID": 83,
@@ -8961,7 +9247,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "083",
+        "arrow": ""
     },
     {
         "ID": 84,
@@ -9063,7 +9351,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "084",
+        "arrow": ""
     },
     {
         "ID": 85,
@@ -9163,7 +9453,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "085",
+        "arrow": ""
     },
     {
         "ID": 86,
@@ -9263,7 +9555,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "086",
+        "arrow": ""
     },
     {
         "ID": 87,
@@ -9340,7 +9634,7 @@
                 "异防向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
             "role": "上条刀夜",
             "url": "卡牌:上条刀夜/上条当麻之父",
@@ -9365,7 +9659,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "087",
+        "arrow": ""
     },
     {
         "ID": 88,
@@ -9442,7 +9738,7 @@
                 "物防向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
             "role": "上条诗菜",
             "url": "卡牌:上条诗菜/上条当麻之母",
@@ -9467,7 +9763,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "088",
+        "arrow": ""
     },
     {
         "ID": 89,
@@ -9567,7 +9865,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "089",
+        "arrow": ""
     },
     {
         "ID": 90,
@@ -9669,7 +9969,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "090",
+        "arrow": ""
     },
     {
         "ID": 91,
@@ -9765,7 +10067,9 @@
             "skill1SearchS": [],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "091",
+        "arrow": ""
     },
     {
         "ID": 92,
@@ -9808,7 +10112,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "028.jpg",
+            "attackDirection": "028",
             "obtain": "とある浜辺の常夏楽園ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -9879,7 +10183,13 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "092",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 93,
@@ -9923,7 +10233,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "025.jpg",
+            "attackDirection": "025",
             "obtain": "とある浜辺の常夏楽園ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -9993,7 +10303,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "093",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 94,
@@ -10095,7 +10410,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "094",
+        "arrow": ""
     },
     {
         "ID": 95,
@@ -10139,7 +10456,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "とある最強の処分指令ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -10205,7 +10522,12 @@
             "nirvanaSearchS": [
                 "大威力"
             ]
-        }
+        },
+        "img": "095",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 96,
@@ -10251,7 +10573,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "024.jpg",
+            "attackDirection": "024",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【異能大戦ショップ】\n大戦コイン×800",
             "skill1CT": "4",
@@ -10321,7 +10643,11 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "096",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 97,
@@ -10395,7 +10721,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "物攻向上"
@@ -10423,7 +10749,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "097",
+        "arrow": ""
     },
     {
         "ID": 98,
@@ -10527,7 +10855,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "098",
+        "arrow": ""
     },
     {
         "ID": 99,
@@ -10572,7 +10902,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "029.jpg",
+            "attackDirection": "029",
             "obtain": "とある令嬢の夏季休暇ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -10641,7 +10971,11 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "099",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 100,
@@ -10686,7 +11020,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "とある令嬢の夏季休暇ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -10759,7 +11093,12 @@
                 "自身",
                 "大威力"
             ]
-        }
+        },
+        "img": "100",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 101,
@@ -10804,7 +11143,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "021.jpg",
+            "attackDirection": "021",
             "obtain": "とある令嬢の夏季休暇ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -10875,7 +11214,13 @@
                 "攻击范围内的敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "101",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 102,
@@ -10977,7 +11322,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "102",
+        "arrow": ""
     },
     {
         "ID": 103,
@@ -11077,7 +11424,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "103",
+        "arrow": ""
     },
     {
         "ID": 104,
@@ -11121,7 +11470,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "026.jpg",
+            "attackDirection": "026",
             "obtain": "とある乙女の上条争奪ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -11193,7 +11542,12 @@
                 "属性敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "104",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 105,
@@ -11238,7 +11592,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "030.jpg",
+            "attackDirection": "030",
             "obtain": "とある乙女の上条争奪ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -11309,7 +11663,11 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "105",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 106,
@@ -11355,7 +11713,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "028.jpg",
+            "attackDirection": "028",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\n13-3",
             "skill1CT": "8",
@@ -11425,7 +11783,13 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "106",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 107,
@@ -11527,7 +11891,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "107",
+        "arrow": ""
     },
     {
         "ID": 108,
@@ -11629,7 +11995,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "108",
+        "arrow": ""
     },
     {
         "ID": 109,
@@ -11675,7 +12043,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "010.jpg",
+            "attackDirection": "010",
             "obtain": "とある聖人の仰天騒動ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -11745,7 +12113,11 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "109",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 110,
@@ -11849,7 +12221,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "110",
+        "arrow": ""
     },
     {
         "ID": 111,
@@ -11894,7 +12268,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "とある迷子の万聖節ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -11965,7 +12339,12 @@
                 "属性敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "111",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 112,
@@ -12067,7 +12446,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "112",
+        "arrow": ""
     },
     {
         "ID": 113,
@@ -12169,7 +12550,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "113",
+        "arrow": ""
     },
     {
         "ID": 114,
@@ -12211,7 +12594,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "022.jpg",
+            "attackDirection": "022",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\nR3-4",
             "skill1CT": "6",
@@ -12281,7 +12664,11 @@
                 "特大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "114",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 115,
@@ -12387,7 +12774,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "115",
+        "arrow": ""
     },
     {
         "ID": 116,
@@ -12432,7 +12821,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "033.jpg",
+            "attackDirection": "033",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -12501,7 +12890,12 @@
                 "攻击范围内的敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "116",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 117,
@@ -12547,7 +12941,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\nR1-4",
             "skill1CT": "8",
@@ -12617,7 +13011,12 @@
                 "攻击范围内的敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "117",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 118,
@@ -12713,7 +13112,9 @@
             "skill1SearchS": [],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "118",
+        "arrow": ""
     },
     {
         "ID": 119,
@@ -12757,7 +13158,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "033.jpg",
+            "attackDirection": "033",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "【ストーリーHARD】\nR2-4",
             "skill1CT": "5",
@@ -12827,7 +13228,12 @@
                 "科学侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "119",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 120,
@@ -12872,7 +13278,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "035.jpg",
+            "attackDirection": "035",
             "obtain": "とある聖夜の上条制裁",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -12941,7 +13347,13 @@
                 "攻击范围内的敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "120",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 121,
@@ -12984,7 +13396,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "035.jpg",
+            "attackDirection": "035",
             "obtain": "とある聖夜の上条制裁ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "7",
@@ -13053,7 +13465,13 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "121",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 122,
@@ -13098,7 +13516,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "011.jpg",
+            "attackDirection": "011",
             "obtain": "とある聖夜の上条制裁ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -13169,7 +13587,12 @@
                 "科学侧敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "122",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 123,
@@ -13273,7 +13696,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "123",
+        "arrow": ""
     },
     {
         "ID": 124,
@@ -13381,7 +13806,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "124",
+        "arrow": ""
     },
     {
         "ID": 125,
@@ -13426,7 +13853,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "016.jpg",
+            "attackDirection": "016",
             "obtain": "とある聖夜の晩餐会ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -13499,7 +13926,11 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "125",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 126,
@@ -13545,7 +13976,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "027.jpg",
+            "attackDirection": "027",
             "obtain": "とある聖夜の晩餐会ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -13613,7 +14044,12 @@
             "nirvanaSearchS": [
                 "魔术侧的我方全体"
             ]
-        }
+        },
+        "img": "126",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 127,
@@ -13657,7 +14093,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "とある新年の逢引初詣ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "8",
@@ -13729,7 +14165,11 @@
                 "自身",
                 "特大威力"
             ]
-        }
+        },
+        "img": "127",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 128,
@@ -13833,7 +14273,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "128",
+        "arrow": ""
     },
     {
         "ID": 129,
@@ -13876,7 +14318,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "とある新年の逢引初詣ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -13945,7 +14387,11 @@
                 "特大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "129",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 130,
@@ -13987,7 +14433,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "035.jpg",
+            "attackDirection": "035",
             "obtain": "とある新年の逢引初詣ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -14055,7 +14501,13 @@
                 "属性敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "130",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 131,
@@ -14159,7 +14611,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "131",
+        "arrow": ""
     },
     {
         "ID": 132,
@@ -14199,7 +14653,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -14269,7 +14723,12 @@
                 "大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "132",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 133,
@@ -14373,7 +14832,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "133",
+        "arrow": ""
     },
     {
         "ID": 134,
@@ -14415,7 +14876,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "014.jpg",
+            "attackDirection": "014",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -14481,7 +14942,13 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "134",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 135,
@@ -14524,7 +14991,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -14564,7 +15031,7 @@
                 "术式解析"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "方向攻击强化"
             ],
             "role": "上条当麻",
@@ -14593,7 +15060,12 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "135",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 136,
@@ -14695,7 +15167,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "136",
+        "arrow": ""
     },
     {
         "ID": 137,
@@ -14740,7 +15214,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -14809,7 +15283,12 @@
                 "我方全体",
                 "魔术侧的我方全体"
             ]
-        }
+        },
+        "img": "137",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 138,
@@ -14853,7 +15332,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "035.jpg",
+            "attackDirection": "035",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "3",
@@ -14923,7 +15402,13 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "138",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 139,
@@ -14968,7 +15453,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -15037,7 +15522,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "139",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 140,
@@ -15141,7 +15631,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "140",
+        "arrow": ""
     },
     {
         "ID": 141,
@@ -15218,7 +15710,7 @@
                 "HP向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
             "role": "安洁莉娜",
             "url": "卡牌:安洁莉娜/囚服",
@@ -15243,7 +15735,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "141",
+        "arrow": ""
     },
     {
         "ID": 142,
@@ -15349,7 +15843,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "142",
+        "arrow": ""
     },
     {
         "ID": 143,
@@ -15394,7 +15890,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "010.jpg",
+            "attackDirection": "010",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -15463,7 +15959,11 @@
                 "全体敌人",
                 "小威力"
             ]
-        }
+        },
+        "img": "143",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 144,
@@ -15565,7 +16065,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "144",
+        "arrow": ""
     },
     {
         "ID": 145,
@@ -15669,7 +16171,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "145",
+        "arrow": ""
     },
     {
         "ID": 146,
@@ -15715,7 +16219,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "020.jpg",
+            "attackDirection": "020",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -15787,7 +16291,12 @@
                 "攻击范围内的敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "146",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 147,
@@ -15833,7 +16342,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "014.jpg",
+            "attackDirection": "014",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -15875,7 +16384,7 @@
                 "异攻向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "方向攻击强化"
             ],
             "role": "垣根帝督",
@@ -15903,7 +16412,13 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "147",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 148,
@@ -16005,7 +16520,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "148",
+        "arrow": ""
     },
     {
         "ID": 149,
@@ -16051,7 +16568,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -16125,7 +16642,12 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "149",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 150,
@@ -16229,7 +16751,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "150",
+        "arrow": ""
     },
     {
         "ID": 151,
@@ -16273,7 +16797,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -16345,7 +16869,11 @@
                 "右面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "151",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 152,
@@ -16449,7 +16977,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "152",
+        "arrow": ""
     },
     {
         "ID": 153,
@@ -16497,7 +17027,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "027.jpg",
+            "attackDirection": "027",
             "obtain": "組織戦線ショップ",
             "awakeningCrystal": "【組織戦線ショップ】\n組織コイン×50〜450",
             "skill1CT": "7",
@@ -16571,7 +17101,12 @@
                 "自身",
                 "特大威力"
             ]
-        }
+        },
+        "img": "153",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 154,
@@ -16653,7 +17188,7 @@
                 "判断力向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "SP获得量向上"
             ],
             "role": "风斩冰华",
@@ -16679,7 +17214,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "154",
+        "arrow": ""
     },
     {
         "ID": 155,
@@ -16781,7 +17318,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "155",
+        "arrow": ""
     },
     {
         "ID": 156,
@@ -16827,7 +17366,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "007.jpg",
+            "attackDirection": "007",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -16897,7 +17436,13 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "156",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 157,
@@ -17001,7 +17546,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "157",
+        "arrow": ""
     },
     {
         "ID": 158,
@@ -17044,7 +17591,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "8",
@@ -17113,7 +17660,12 @@
                 "大威力",
                 "容易发生暴击"
             ]
-        }
+        },
+        "img": "158",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 159,
@@ -17158,7 +17710,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "8",
@@ -17229,7 +17781,12 @@
                 "特大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "159",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 160,
@@ -17333,7 +17890,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "160",
+        "arrow": ""
     },
     {
         "ID": 161,
@@ -17439,7 +17998,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "161",
+        "arrow": ""
     },
     {
         "ID": 162,
@@ -17481,7 +18042,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "021.jpg",
+            "attackDirection": "021",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -17547,7 +18108,13 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "162",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 163,
@@ -17593,7 +18160,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "026.jpg",
+            "attackDirection": "026",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -17665,7 +18232,12 @@
                 "科学侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "163",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 164,
@@ -17711,7 +18283,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -17750,7 +18322,7 @@
                 "暴击威力降低"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "HP向上",
@@ -17781,7 +18353,12 @@
             "nirvanaSearchS": [
                 "全体敌人"
             ]
-        }
+        },
+        "img": "164",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 165,
@@ -17883,7 +18460,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "165",
+        "arrow": ""
     },
     {
         "ID": 166,
@@ -17989,7 +18568,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "166",
+        "arrow": ""
     },
     {
         "ID": 167,
@@ -18031,7 +18612,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "017.jpg",
+            "attackDirection": "017",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -18073,7 +18654,7 @@
                 "物攻向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "构造解析"
             ],
             "role": "一方通行",
@@ -18105,7 +18686,11 @@
                 "特大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "167",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 168,
@@ -18149,7 +18734,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "025.jpg",
+            "attackDirection": "025",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -18217,7 +18802,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "168",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 169,
@@ -18321,7 +18911,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "169",
+        "arrow": ""
     },
     {
         "ID": 170,
@@ -18399,7 +18991,7 @@
                 "异攻向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
             "role": "御坂美琴",
             "url": "卡牌:御坂美琴/挑战最强",
@@ -18423,7 +19015,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "170",
+        "arrow": ""
     },
     {
         "ID": 171,
@@ -18500,7 +19094,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上",
@@ -18529,7 +19123,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "171",
+        "arrow": ""
     },
     {
         "ID": 172,
@@ -18605,7 +19201,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异防向上"
@@ -18633,7 +19229,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "172",
+        "arrow": ""
     },
     {
         "ID": 173,
@@ -18677,7 +19275,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "002.jpg",
+            "attackDirection": "002",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -18747,7 +19345,11 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "173",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 174,
@@ -18793,7 +19395,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "006.jpg",
+            "attackDirection": "006",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "8",
@@ -18832,7 +19434,7 @@
                 "物攻降低"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "HP向上",
@@ -18863,7 +19465,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "174",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 175,
@@ -18910,7 +19517,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "023.jpg",
+            "attackDirection": "023",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -18981,7 +19588,11 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "175",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 176,
@@ -19024,7 +19635,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆2",
             "attackMethod": "物理攻撃",
-            "attackDirection": "026.jpg",
+            "attackDirection": "026",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "8",
@@ -19093,7 +19704,12 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "176",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 177,
@@ -19136,7 +19752,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "030.jpg",
+            "attackDirection": "030",
             "obtain": "とある噂の花嫁衣装ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "3",
@@ -19209,7 +19825,11 @@
                 "右面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "177",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 178,
@@ -19255,7 +19875,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "とある噂の花嫁衣装ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -19325,7 +19945,12 @@
             "nirvanaSearchS": [
                 "我方全体"
             ]
-        }
+        },
+        "img": "178",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 179,
@@ -19431,7 +20056,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "179",
+        "arrow": ""
     },
     {
         "ID": 180,
@@ -19533,7 +20160,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "180",
+        "arrow": ""
     },
     {
         "ID": 181,
@@ -19637,7 +20266,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "181",
+        "arrow": ""
     },
     {
         "ID": 182,
@@ -19683,7 +20314,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "014.jpg",
+            "attackDirection": "014",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -19753,7 +20384,13 @@
                 "正面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "182",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 183,
@@ -19798,7 +20435,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "011.jpg",
+            "attackDirection": "011",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -19867,7 +20504,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "183",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 184,
@@ -19969,7 +20611,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "184",
+        "arrow": ""
     },
     {
         "ID": 185,
@@ -20016,7 +20660,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "028.jpg",
+            "attackDirection": "028",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -20089,7 +20733,13 @@
                 "魔术侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "185",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 186,
@@ -20130,7 +20780,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "033.jpg",
+            "attackDirection": "033",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -20166,7 +20816,7 @@
                 "物防降低"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "魔术支援"
@@ -20197,7 +20847,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "186",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 187,
@@ -20272,7 +20927,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "物防向上",
@@ -20301,7 +20956,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "187",
+        "arrow": ""
     },
     {
         "ID": 188,
@@ -20345,7 +21002,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "025.jpg",
+            "attackDirection": "025",
             "obtain": "1stAnniversary幻想祭宴ガチャ前半",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -20415,7 +21072,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "188",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 189,
@@ -20460,7 +21122,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "014.jpg",
+            "attackDirection": "014",
             "obtain": "1stAnniversary幻想祭宴ガチャ前半",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -20529,7 +21191,13 @@
                 "全体敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "189",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 190,
@@ -20574,7 +21242,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "022.jpg",
+            "attackDirection": "022",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -20643,7 +21311,11 @@
                 "全体敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "190",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 191,
@@ -20730,7 +21402,7 @@
                 "异攻向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
             "role": "御坂美琴",
             "url": "卡牌:御坂美琴/对魔术式驱动铠",
@@ -20757,7 +21429,9 @@
                 "全体敌人"
             ],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "191",
+        "arrow": ""
     },
     {
         "ID": 192,
@@ -20830,7 +21504,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "物防向上"
@@ -20857,7 +21531,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "192",
+        "arrow": ""
     },
     {
         "ID": 193,
@@ -20902,7 +21578,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "034.jpg",
+            "attackDirection": "034",
             "obtain": "1stAnniversary幻想祭宴ガチャ後半",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -20969,7 +21645,12 @@
             "nirvanaSearchS": [
                 "我方全体"
             ]
-        }
+        },
+        "img": "193",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 194,
@@ -21014,7 +21695,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "032.jpg",
+            "attackDirection": "032",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "4",
@@ -21083,7 +21764,12 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "194",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 195,
@@ -21201,7 +21887,9 @@
                 "全体敌人"
             ],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "195",
+        "arrow": ""
     },
     {
         "ID": 196,
@@ -21305,7 +21993,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "196",
+        "arrow": ""
     },
     {
         "ID": 197,
@@ -21407,7 +22097,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "197",
+        "arrow": ""
     },
     {
         "ID": 198,
@@ -21453,7 +22145,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "009.jpg",
+            "attackDirection": "009",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "3",
@@ -21523,7 +22215,11 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "198",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 199,
@@ -21599,7 +22295,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异防向上"
@@ -21627,7 +22323,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "199",
+        "arrow": ""
     },
     {
         "ID": 200,
@@ -21705,7 +22403,7 @@
                 "异防向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "判断力向上"
             ],
             "role": "帆风润子",
@@ -21731,7 +22429,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "200",
+        "arrow": ""
     },
     {
         "ID": 201,
@@ -21775,7 +22475,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "026.jpg",
+            "attackDirection": "026",
             "obtain": "とある2人の水着事件ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -21841,7 +22541,12 @@
                 "自身",
                 "特大威力"
             ]
-        }
+        },
+        "img": "201",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 202,
@@ -21883,7 +22588,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "とある2人の水着事件ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -21953,7 +22658,12 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "202",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 203,
@@ -22057,7 +22767,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "203",
+        "arrow": ""
     },
     {
         "ID": 204,
@@ -22163,7 +22875,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "204",
+        "arrow": ""
     },
     {
         "ID": 205,
@@ -22205,7 +22919,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "002.jpg",
+            "attackDirection": "002",
             "obtain": "とある浴衣の屋台戦争ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "8",
@@ -22241,7 +22955,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "HP向上"
@@ -22271,7 +22985,11 @@
                 "右面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "205",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 206,
@@ -22375,7 +23093,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "206",
+        "arrow": ""
     },
     {
         "ID": 207,
@@ -22452,7 +23172,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "物攻向上",
@@ -22481,7 +23201,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "207",
+        "arrow": ""
     },
     {
         "ID": 208,
@@ -22526,7 +23248,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -22597,7 +23319,12 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "208",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 209,
@@ -22703,7 +23430,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "209",
+        "arrow": ""
     },
     {
         "ID": 210,
@@ -22782,7 +23511,7 @@
                 "异防向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
             "role": "露琪亚",
             "url": "卡牌:露琪亚/堕天使工口女仆",
@@ -22807,7 +23536,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "210",
+        "arrow": ""
     },
     {
         "ID": 211,
@@ -22911,7 +23642,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "211",
+        "arrow": ""
     },
     {
         "ID": 212,
@@ -22956,7 +23689,7 @@
             "faction": "その他サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "011.jpg",
+            "attackDirection": "011",
             "obtain": "とある邂逅の世界祝福ステップアップガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -23025,7 +23758,12 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "212",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 213,
@@ -23067,7 +23805,7 @@
             "faction": "その他サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "とある邂逅の世界祝福ステップアップガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -23133,7 +23871,12 @@
                 "全体敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "213",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 214,
@@ -23235,7 +23978,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "214",
+        "arrow": ""
     },
     {
         "ID": 215,
@@ -23339,7 +24084,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "215",
+        "arrow": ""
     },
     {
         "ID": 216,
@@ -23388,7 +24135,7 @@
             "faction": "その他サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "とある邂逅の世界祝福後編ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -23459,7 +24206,11 @@
             "nirvanaSearchS": [
                 "攻击范围内的敌人"
             ]
-        }
+        },
+        "img": "216",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 217,
@@ -23507,7 +24258,7 @@
             "faction": "その他サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "028.jpg",
+            "attackDirection": "028",
             "obtain": "とある邂逅の世界祝福後編ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -23577,7 +24328,13 @@
             "nirvanaSearchS": [
                 "自身"
             ]
-        }
+        },
+        "img": "217",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 218,
@@ -23679,7 +24436,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "218",
+        "arrow": ""
     },
     {
         "ID": 219,
@@ -23724,7 +24483,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "011.jpg",
+            "attackDirection": "011",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -23793,7 +24552,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "219",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 220,
@@ -23838,7 +24602,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "プレミアムガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -23909,7 +24673,12 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "220",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 221,
@@ -24013,7 +24782,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "221",
+        "arrow": ""
     },
     {
         "ID": 222,
@@ -24117,7 +24888,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "222",
+        "arrow": ""
     },
     {
         "ID": 223,
@@ -24164,7 +24937,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "とある学舎の仮装饗宴ステップアップガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -24237,7 +25010,12 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "223",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 224,
@@ -24285,7 +25063,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "035.jpg",
+            "attackDirection": "035",
             "obtain": "とある学舎の仮装饗宴ステップアップガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "7",
@@ -24359,7 +25137,13 @@
                 "全体敌人",
                 "小威力"
             ]
-        }
+        },
+        "img": "224",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 225,
@@ -24463,7 +25247,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "225",
+        "arrow": ""
     },
     {
         "ID": 226,
@@ -24569,7 +25355,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "226",
+        "arrow": ""
     },
     {
         "ID": 227,
@@ -24615,7 +25403,7 @@
             "faction": "その他サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "とある紅蓮の炎髪灼眼ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -24691,7 +25479,11 @@
                 "自身",
                 "特大威力"
             ]
-        }
+        },
+        "img": "227",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 228,
@@ -24735,7 +25527,7 @@
             "faction": "その他サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "034.jpg",
+            "attackDirection": "034",
             "obtain": "とある紅蓮の炎髪灼眼ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -24769,6 +25561,10 @@
                 "HP向上",
                 "判断力向上"
             ],
+            "attributes": "紫",
+            "class": "BATTLE",
+            "faction": "其他阵营",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "中威力"
@@ -24778,7 +25574,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "228",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 229,
@@ -24848,12 +25649,18 @@
             "potentialSearch2": [
                 "HP向上"
             ],
+            "class": "ASSIST",
+            "faction": "其他阵营",
+            "attackMethod": "辅助角色",
+            "attributes": "绿",
             "skill1SearchS": [
                 "配对角色使敌人退场时"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "229",
+        "arrow": ""
     },
     {
         "ID": 230,
@@ -24959,7 +25766,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "230",
+        "arrow": ""
     },
     {
         "ID": 231,
@@ -25061,7 +25870,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "231",
+        "arrow": ""
     },
     {
         "ID": 232,
@@ -25108,7 +25919,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "新キャラ!ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -25179,7 +25990,12 @@
                 "正面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "232",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 233,
@@ -25287,7 +26103,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "233",
+        "arrow": ""
     },
     {
         "ID": 234,
@@ -25331,7 +26149,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "032.jpg",
+            "attackDirection": "032",
             "obtain": "幻想祭宴ガチャ（恒常キャラ）",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -25403,7 +26221,12 @@
                 "自身的右临的角色",
                 "大威力"
             ]
-        }
+        },
+        "img": "234",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 235,
@@ -25505,7 +26328,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "235",
+        "arrow": ""
     },
     {
         "ID": 236,
@@ -25553,7 +26378,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -25599,7 +26424,7 @@
                 "构造解析"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "方向攻击强化"
             ],
             "role": "削板军霸",
@@ -25629,7 +26454,12 @@
                 "特大威力",
                 "自身HP值越低伤害越高"
             ]
-        }
+        },
+        "img": "236",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 237,
@@ -25673,7 +26503,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "027.jpg",
+            "attackDirection": "027",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -25714,7 +26544,7 @@
                 "构造解析"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "集中力向上"
             ],
             "role": "御坂美琴",
@@ -25743,7 +26573,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "237",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 238,
@@ -25827,7 +26662,7 @@
             ],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上"
@@ -25857,7 +26692,9 @@
                 "配对角色给予敌人暴击伤害时"
             ],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "238",
+        "arrow": ""
     },
     {
         "ID": 239,
@@ -25937,7 +26774,7 @@
                 "物攻向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "集中力向上"
             ],
             "role": "鸣护艾丽莎",
@@ -25963,7 +26800,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "239",
+        "arrow": ""
     },
     {
         "ID": 240,
@@ -26005,7 +26844,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "とある奇蹟の天空奏歌ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -26073,7 +26912,11 @@
                 "特大威力",
                 "容易发生暴击"
             ]
-        }
+        },
+        "img": "240",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 241,
@@ -26118,7 +26961,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "025.jpg",
+            "attackDirection": "025",
             "obtain": "とある奇蹟の天空奏歌ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -26158,7 +27001,7 @@
                 "暴击发生率降低"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "物攻向上",
@@ -26191,7 +27034,12 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "241",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 242,
@@ -26267,7 +27115,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "HP向上"
@@ -26295,7 +27143,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "242",
+        "arrow": ""
     },
     {
         "ID": 243,
@@ -26343,7 +27193,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -26419,7 +27269,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "243",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 244,
@@ -26462,7 +27317,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "026.jpg",
+            "attackDirection": "026",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -26533,7 +27388,12 @@
                 "特大威力",
                 "当自己的HP值一半以下时，威力会上升"
             ]
-        }
+        },
+        "img": "244",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 245,
@@ -26641,7 +27501,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "245",
+        "arrow": ""
     },
     {
         "ID": 246,
@@ -26687,7 +27549,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "013.jpg",
+            "attackDirection": "013",
             "obtain": "とある賢者の即興聖夜ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "6",
@@ -26761,7 +27623,12 @@
                 "大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "246",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 247,
@@ -26807,7 +27674,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "003.jpg",
+            "attackDirection": "003",
             "obtain": "とある賢者の即興聖夜ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -26879,7 +27746,11 @@
                 "左面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "247",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 248,
@@ -26983,7 +27854,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "248",
+        "arrow": ""
     },
     {
         "ID": 249,
@@ -27091,7 +27964,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "249",
+        "arrow": ""
     },
     {
         "ID": 250,
@@ -27137,7 +28012,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "とある組織の聖夜計画ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -27177,7 +28052,7 @@
                 "持续被害"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上",
@@ -27209,7 +28084,12 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "250",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 251,
@@ -27254,7 +28134,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "035.jpg",
+            "attackDirection": "035",
             "obtain": "とある組織の聖夜計画ガチャ",
             "awakeningCrystal": "-",
             "skill1CT": "5",
@@ -27323,7 +28203,13 @@
                 "正面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "251",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 252,
@@ -27427,7 +28313,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "252",
+        "arrow": ""
     },
     {
         "ID": 253,
@@ -27470,7 +28358,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "032.jpg",
+            "attackDirection": "032",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -27539,7 +28427,12 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "253",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 254,
@@ -27584,7 +28477,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "013.jpg",
+            "attackDirection": "013",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -27655,7 +28548,12 @@
                 "科学侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "254",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 255,
@@ -27761,7 +28659,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "255",
+        "arrow": ""
     },
     {
         "ID": 256,
@@ -27808,7 +28708,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "幻想祭宴ガチャ（期間限定キャラ）",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -27849,7 +28749,7 @@
                 "数值强化解除"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "物防向上",
@@ -27881,7 +28781,12 @@
                 "正面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "256",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 257,
@@ -27927,7 +28832,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "025.jpg",
+            "attackDirection": "025",
             "obtain": "幻想祭宴ガチャ（期間限定キャラ）",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -27999,7 +28904,12 @@
                 "全体敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "257",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 258,
@@ -28047,7 +28957,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "033.jpg",
+            "attackDirection": "033",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -28121,7 +29031,12 @@
                 "特大威力",
                 "对方HP值越高伤害越高"
             ]
-        }
+        },
+        "img": "258",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 259,
@@ -28167,7 +29082,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "007.jpg",
+            "attackDirection": "007",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -28241,7 +29156,13 @@
                 "特大威力",
                 "无视使伤害无效的特殊效果的攻击"
             ]
-        }
+        },
+        "img": "259",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 260,
@@ -28357,7 +29278,9 @@
                 "配对角色使用必杀技后"
             ],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "260",
+        "arrow": ""
     },
     {
         "ID": 261,
@@ -28404,7 +29327,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "029.jpg",
+            "attackDirection": "029",
             "obtain": "組織戦線ショップ",
             "awakeningCrystal": "",
             "skill1CT": "3",
@@ -28481,7 +29404,11 @@
                 "自身",
                 "大威力"
             ]
-        }
+        },
+        "img": "261",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 262,
@@ -28591,7 +29518,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "262",
+        "arrow": ""
     },
     {
         "ID": 263,
@@ -28638,7 +29567,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "032.jpg",
+            "attackDirection": "032",
             "obtain": "arrows×幻想収束タイアップイベント",
             "awakeningCrystal": "イベント",
             "skill1CT": "5",
@@ -28678,7 +29607,7 @@
                 "HP回复"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "HP向上",
@@ -28709,7 +29638,12 @@
                 "自身的两临的角色",
                 "我方全体"
             ]
-        }
+        },
+        "img": "263",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 264,
@@ -28813,7 +29747,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "264",
+        "arrow": ""
     },
     {
         "ID": 265,
@@ -28894,7 +29830,7 @@
                 "异防向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "集中力向上"
             ],
             "role": "建宫斋字",
@@ -28902,7 +29838,7 @@
             "voice": "鸟海浩辅",
             "class": "ASSIST",
             "attributes": "绿",
-            "faction": "科学侧",
+            "faction": "魔法侧",
             "initialrarity": "☆3",
             "attackMethod": "辅助角色",
             "attackDirection": "",
@@ -28921,7 +29857,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "265",
+        "arrow": ""
     },
     {
         "ID": 266,
@@ -28967,7 +29905,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "016.jpg",
+            "attackDirection": "016",
             "obtain": "とある五和の恋愛抱負ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -29045,7 +29983,11 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "266",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 267,
@@ -29092,7 +30034,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "026.jpg",
+            "attackDirection": "026",
             "obtain": "とある五和の恋愛抱負ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -29167,7 +30109,12 @@
                 "魔术侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "267",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 268,
@@ -29273,7 +30220,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "268",
+        "arrow": ""
     },
     {
         "ID": 269,
@@ -29319,7 +30268,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "021.jpg",
+            "attackDirection": "021",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -29389,7 +30338,13 @@
                 "正面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "269",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 270,
@@ -29434,7 +30389,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "034.jpg",
+            "attackDirection": "034",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -29509,7 +30464,12 @@
                 "科学侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "270",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 271,
@@ -29557,7 +30517,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "008.jpg",
+            "attackDirection": "008",
             "obtain": "とある恋色の猫耳奉仕ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -29637,7 +30597,11 @@
                 "自身",
                 "特大威力"
             ]
-        }
+        },
+        "img": "271",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 272,
@@ -29684,7 +30648,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "035.jpg",
+            "attackDirection": "035",
             "obtain": "とある恋色の猫耳奉仕ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "7",
@@ -29757,7 +30721,13 @@
                 "全体敌人",
                 "自身"
             ]
-        }
+        },
+        "img": "272",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 273,
@@ -29863,7 +30833,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "273",
+        "arrow": ""
     },
     {
         "ID": 274,
@@ -29969,7 +30941,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "274",
+        "arrow": ""
     },
     {
         "ID": 275,
@@ -30014,7 +30988,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "とある王女の宮廷茶会ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -30054,7 +31028,7 @@
                 "防御强化解除"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上",
@@ -30087,7 +31061,11 @@
                 "特大威力",
                 "无视使伤害无效的特殊效果的攻击"
             ]
-        }
+        },
+        "img": "275",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 276,
@@ -30132,7 +31110,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "014.jpg",
+            "attackDirection": "014",
             "obtain": "とある王女の宮廷茶会ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -30203,7 +31181,13 @@
                 "大威力",
                 "当自己的HP值一半以下时，威力会上升"
             ]
-        }
+        },
+        "img": "276",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 277,
@@ -30309,7 +31293,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "277",
+        "arrow": ""
     },
     {
         "ID": 278,
@@ -30415,7 +31401,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "278",
+        "arrow": ""
     },
     {
         "ID": 279,
@@ -30463,7 +31451,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "017.jpg",
+            "attackDirection": "031",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -30537,7 +31525,11 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "279",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 280,
@@ -30582,7 +31574,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "006.jpg",
+            "attackDirection": "006",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -30653,7 +31645,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "280",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 281,
@@ -30696,7 +31693,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "とある姉妹の献身看護ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -30767,7 +31764,12 @@
                 "自身",
                 "大威力"
             ]
-        }
+        },
+        "img": "281",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 282,
@@ -30813,7 +31815,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "026.jpg",
+            "attackDirection": "026",
             "obtain": "とある姉妹の献身看護ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -30855,7 +31857,7 @@
                 "HP向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "构造解析"
             ],
             "role": "番外个体",
@@ -30883,7 +31885,12 @@
                 "右面的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "282",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 283,
@@ -30961,7 +31968,7 @@
                 "异攻向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
             "role": "妹妹们",
             "url": "卡牌:妹妹们/10046号",
@@ -30985,7 +31992,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "283",
+        "arrow": ""
     },
     {
         "ID": 284,
@@ -31093,7 +32102,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "284",
+        "arrow": ""
     },
     {
         "ID": 285,
@@ -31138,7 +32149,7 @@
             "faction": "魔術サイド\n科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "とある土御門の夢想喫茶ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -31180,7 +32191,7 @@
                 "异防降低"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上"
@@ -31190,7 +32201,7 @@
             "voice": "胜杏里",
             "class": "BATTLE",
             "attributes": "绿",
-            "faction": "科学侧",
+            "faction": "魔法侧 科学侧",
             "initialrarity": "☆3",
             "attackMethod": "异能攻击",
             "attackDirection": "G12",
@@ -31213,7 +32224,12 @@
                 "科学侧敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "285",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 286,
@@ -31258,7 +32274,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "017.jpg",
+            "attackDirection": "017",
             "obtain": "とある土御門の夢想喫茶ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -31331,7 +32347,11 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "286",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 287,
@@ -31409,7 +32429,7 @@
                 "物防向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
             "role": "湾内绢保",
             "url": "卡牌:湾内绢保/纯和风女仆",
@@ -31433,7 +32453,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "287",
+        "arrow": ""
     },
     {
         "ID": 288,
@@ -31537,7 +32559,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "288",
+        "arrow": ""
     },
     {
         "ID": 289,
@@ -31641,7 +32665,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "289",
+        "arrow": ""
     },
     {
         "ID": 290,
@@ -31687,7 +32713,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -31757,7 +32783,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "290",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 291,
@@ -31803,7 +32834,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "024.jpg",
+            "attackDirection": "024",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -31877,7 +32908,11 @@
                 "我方全体",
                 "特大威力"
             ]
-        }
+        },
+        "img": "291",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 292,
@@ -31979,7 +33014,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "292",
+        "arrow": ""
     },
     {
         "ID": 293,
@@ -32026,7 +33063,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "013.jpg",
+            "attackDirection": "013",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "8",
@@ -32099,7 +33136,12 @@
                 "我方全体",
                 "特大威力"
             ]
-        }
+        },
+        "img": "293",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 294,
@@ -32136,7 +33178,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "028.jpg",
+            "attackDirection": "028",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -32180,7 +33222,7 @@
             "voice": "濑户麻沙美",
             "class": "BATTLE",
             "attributes": "黄",
-            "faction": "科学侧",
+            "faction": "魔法侧",
             "initialrarity": "☆3",
             "attackMethod": "异能攻击",
             "attackDirection": "G123",
@@ -32203,7 +33245,13 @@
                 "大威力",
                 "无视使伤害无效的特殊效果的攻击"
             ]
-        }
+        },
+        "img": "294",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 295,
@@ -32321,7 +33369,9 @@
                 "配对角色对敌人造成伤害时"
             ],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "295",
+        "arrow": ""
     },
     {
         "ID": 296,
@@ -32425,7 +33475,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "296",
+        "arrow": ""
     },
     {
         "ID": 297,
@@ -32470,7 +33522,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "007.jpg",
+            "attackDirection": "007",
             "obtain": "とある魔神の都市襲来ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -32543,7 +33595,13 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "297",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 298,
@@ -32585,7 +33643,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "010.jpg",
+            "attackDirection": "010",
             "obtain": "とある魔神の都市襲来ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -32659,7 +33717,11 @@
                 "特大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "298",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 299,
@@ -32761,7 +33823,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "299",
+        "arrow": ""
     },
     {
         "ID": 300,
@@ -32865,7 +33929,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "300",
+        "arrow": ""
     },
     {
         "ID": 301,
@@ -32971,7 +34037,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "301",
+        "arrow": ""
     },
     {
         "ID": 302,
@@ -33016,7 +34084,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -33087,7 +34155,12 @@
                 "正面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "302",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 303,
@@ -33131,7 +34204,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "025.jpg",
+            "attackDirection": "025",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -33201,7 +34274,12 @@
                 "属性敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "303",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 304,
@@ -33305,7 +34383,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "304",
+        "arrow": ""
     },
     {
         "ID": 305,
@@ -33415,7 +34495,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "305",
+        "arrow": ""
     },
     {
         "ID": 306,
@@ -33459,7 +34541,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "021.jpg",
+            "attackDirection": "021",
             "obtain": "とある遊戯の疑似世界ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -33533,7 +34615,13 @@
                 "特大威力",
                 "当自己的HP值最大时，威力会上升"
             ]
-        }
+        },
+        "img": "306",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 307,
@@ -33579,7 +34667,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "029.jpg",
+            "attackDirection": "029",
             "obtain": "とある遊戯の疑似世界ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -33651,7 +34739,11 @@
                 "特大威力",
                 "无视使伤害无效的特殊效果的攻击"
             ]
-        }
+        },
+        "img": "307",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 308,
@@ -33694,7 +34786,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "013.jpg",
+            "attackDirection": "013",
             "obtain": "とある遊戯の疑似世界ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -33769,7 +34861,12 @@
                 "我方全体",
                 "大威力"
             ]
-        }
+        },
+        "img": "308",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 309,
@@ -33871,7 +34968,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "309",
+        "arrow": ""
     },
     {
         "ID": 310,
@@ -33946,7 +35045,7 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上"
@@ -33973,7 +35072,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "310",
+        "arrow": ""
     },
     {
         "ID": 311,
@@ -34077,7 +35178,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "311",
+        "arrow": ""
     },
     {
         "ID": 312,
@@ -34119,7 +35222,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "011.jpg",
+            "attackDirection": "011",
             "obtain": "とある夜祭の花火演戯ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -34183,7 +35286,12 @@
                 "大威力",
                 "必发生暴击"
             ]
-        }
+        },
+        "img": "312",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 313,
@@ -34229,7 +35337,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "034.jpg",
+            "attackDirection": "034",
             "obtain": "とある夜祭の花火演戯ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -34305,7 +35413,12 @@
                 "攻击范围内的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "313",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 314,
@@ -34411,7 +35524,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "314",
+        "arrow": ""
     },
     {
         "ID": 315,
@@ -34456,7 +35571,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "015.jpg",
+            "attackDirection": "015",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "3",
@@ -34531,7 +35646,11 @@
                 "科学侧敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "315",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 316,
@@ -34578,7 +35697,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -34651,7 +35770,12 @@
                 "攻击范围内的敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "316",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 317,
@@ -34697,7 +35821,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "027.jpg",
+            "attackDirection": "027",
             "obtain": "とある乙女の運命交差ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -34769,7 +35893,12 @@
                 "自身",
                 "特大威力"
             ]
-        }
+        },
+        "img": "317",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 318,
@@ -34814,7 +35943,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "とある乙女の運命交差ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -34885,7 +36014,12 @@
                 "科学侧敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "318",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 319,
@@ -34989,7 +36123,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "319",
+        "arrow": ""
     },
     {
         "ID": 320,
@@ -35070,7 +36206,7 @@
                 "异攻向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "判断力向上"
             ],
             "role": "食蜂操祈",
@@ -35095,7 +36231,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "320",
+        "arrow": ""
     },
     {
         "ID": 321,
@@ -35140,7 +36278,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "026.jpg",
+            "attackDirection": "026",
             "obtain": "とある花嫁の神聖挙式ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -35171,12 +36309,16 @@
                 "弱体化解除妨害"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "物攻向上",
                 "判断力向上"
             ],
+            "attributes": "黄",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "自身",
@@ -35188,7 +36330,12 @@
                 "特大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "321",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 322,
@@ -35234,7 +36381,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "002.jpg",
+            "attackDirection": "002",
             "obtain": "とある花嫁の神聖挙式ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "7",
@@ -35272,6 +36419,10 @@
                 "异攻向上",
                 "方向攻击强化"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "正面的敌人",
                 "魔术侧敌人",
@@ -35283,7 +36434,11 @@
                 "自身",
                 "大威力"
             ]
-        }
+        },
+        "img": "322",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 323,
@@ -35351,12 +36506,18 @@
             "potentialSearch2": [
                 "异攻向上"
             ],
+            "attributes": "红",
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "敌行动结束时配对角色的HP小于自身一半时"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "323",
+        "arrow": ""
     },
     {
         "ID": 324,
@@ -35429,13 +36590,19 @@
                 "HP向上",
                 "集中力向上"
             ],
+            "attributes": "黄",
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "行动开始时",
                 "同属性的我方全体"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "324",
+        "arrow": ""
     },
     {
         "ID": 325,
@@ -35482,7 +36649,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -35519,6 +36686,10 @@
                 "物攻向上",
                 "集中力向上"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "全体敌人"
             ],
@@ -35528,7 +36699,12 @@
                 "自身",
                 "大威力"
             ]
-        }
+        },
+        "img": "325",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 326,
@@ -35573,7 +36749,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -35611,6 +36787,10 @@
                 "异攻向上",
                 "术式解析"
             ],
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
+            "attributes": "绿",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "属性敌人",
@@ -35623,7 +36803,12 @@
                 "大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "326",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 327,
@@ -35668,7 +36853,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "029.jpg",
+            "attackDirection": "029",
             "obtain": "とある幻想の二周記念",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -35704,6 +36889,10 @@
                 "HP向上",
                 "集中力向上"
             ],
+            "attributes": "紫",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "中威力"
@@ -35714,7 +36903,11 @@
                 "属性敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "327",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 328,
@@ -35763,7 +36956,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "035.jpg",
+            "attackDirection": "035",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -35803,6 +36996,10 @@
                 "与该角色同色全体队友异能能力向上",
                 "与该角色同色全体队友对克制属性角色异能攻击力向上"
             ],
+            "attributes": "紫",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "自身",
                 "我方全体"
@@ -35813,7 +37010,13 @@
                 "自身",
                 "根据自身被赋予的强化状态的数量威力上升的攻击"
             ]
-        }
+        },
+        "img": "328",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 329,
@@ -35857,7 +37060,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "020.jpg",
+            "attackDirection": "020",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -35895,6 +37098,10 @@
                 "与该角色同色全体队友异能能力向上",
                 "与该角色同色全体队友对克制属性角色异能攻击力向上"
             ],
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "异能攻击",
+            "attributes": "绿",
             "skill1SearchS": [
                 "正面和左右的敌人",
                 "右面的敌人",
@@ -35908,7 +37115,12 @@
                 "特大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "329",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 330,
@@ -35984,12 +37196,16 @@
             ],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上",
                 "SP获得量向上"
             ],
+            "attributes": "黄",
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "配对角色使用技能后",
                 "同属性的我方全体"
@@ -35999,7 +37215,9 @@
                 "我方全体"
             ],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "330",
+        "arrow": ""
     },
     {
         "ID": 331,
@@ -36072,13 +37290,19 @@
             "potentialSearch2": [
                 "物攻向上"
             ],
+            "attributes": "蓝",
+            "class": "ASSIST",
+            "faction": "科学侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "配对角色从辅助角色以外受到的弱化状态时",
                 "我方全体"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "331",
+        "arrow": ""
     },
     {
         "ID": 332,
@@ -36120,7 +37344,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "009.jpg",
+            "attackDirection": "009",
             "obtain": "幻想祭宴ガチャ（期間限定キャラ）",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -36152,6 +37376,10 @@
             "potentialSearch2": [
                 "异攻向上"
             ],
+            "attributes": "蓝",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "自身"
             ],
@@ -36161,7 +37389,11 @@
                 "特大威力",
                 "必发生暴击"
             ]
-        }
+        },
+        "img": "332",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 333,
@@ -36225,18 +37457,24 @@
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异防向上"
             ],
+            "attributes": "紫",
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "行动开始时",
                 "全体敌人"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "333",
+        "arrow": ""
     },
     {
         "ID": 334,
@@ -36283,7 +37521,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "025.jpg",
+            "attackDirection": "025",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -36320,6 +37558,10 @@
                 "与该角色同色全体队友物理能力向上",
                 "与该角色同色全体队友对克制属性角色物理攻击力向上"
             ],
+            "attributes": "黄",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "某属性的我方全体"
             ],
@@ -36329,7 +37571,12 @@
                 "特大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "334",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 335,
@@ -36375,7 +37622,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "006.jpg",
+            "attackDirection": "006",
             "obtain": "幻想祭宴ガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -36412,6 +37659,10 @@
                 "与该角色同色全体队友异能能力向上",
                 "与该角色同色全体队友对克制属性角色异能攻击力向上"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "中威力"
@@ -36422,7 +37673,12 @@
                 "特大威力",
                 "无视使伤害无效的特殊效果的攻击"
             ]
-        }
+        },
+        "img": "335",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 336,
@@ -36467,7 +37723,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "幻想祭宴ガチャ（期間限定キャラ）",
             "awakeningCrystal": "",
             "skill1CT": "8",
@@ -36497,12 +37753,16 @@
                 "强化状态解除"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "物攻向上",
                 "构造解析"
             ],
+            "attributes": "蓝",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "自身"
             ],
@@ -36513,7 +37773,12 @@
                 "特大威力",
                 "根据自身被赋予的强化状态的数量威力上升的攻击"
             ]
-        }
+        },
+        "img": "336",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 337,
@@ -36585,6 +37850,10 @@
             "potentialSearch2": [
                 "物攻向上"
             ],
+            "attributes": "黄",
+            "class": "ASSIST",
+            "faction": "科学侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "行动开始时",
                 "全体敌人",
@@ -36592,7 +37861,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "337",
+        "arrow": ""
     },
     {
         "ID": 338,
@@ -36663,13 +37934,19 @@
                 "异攻向上",
                 "集中力向上"
             ],
+            "attributes": "黄",
+            "class": "ASSIST",
+            "faction": "其他阵营",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "行动开始时",
                 "全体敌人"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "338",
+        "arrow": ""
     },
     {
         "ID": 339,
@@ -36714,7 +37991,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "001.jpg",
+            "attackDirection": "001",
             "obtain": "等級ショップ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -36747,9 +38024,13 @@
                 "科学连携力向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "术式解析"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "正面的敌人",
                 "中威力"
@@ -36760,7 +38041,11 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "339",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 340,
@@ -36807,7 +38092,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "014.jpg",
+            "attackDirection": "014",
             "obtain": "新キャラ！ピックアップガチャ（期間限定キャラ）",
             "awakeningCrystal": "",
             "skill1CT": "7",
@@ -36837,11 +38122,15 @@
                 "SP获得量增加"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "魔术支援"
             ],
+            "attributes": "蓝",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "自身以外的我方全体"
             ],
@@ -36849,7 +38138,13 @@
             "nirvanaSearchS": [
                 "我方全体"
             ]
-        }
+        },
+        "img": "340",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 341,
@@ -36895,7 +38190,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "019.jpg",
+            "attackDirection": "019",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -36929,9 +38224,13 @@
                 "物攻向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "魔术连携力向上"
             ],
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "物理攻击",
+            "attributes": "绿",
             "skill1SearchS": [
                 "自身"
             ],
@@ -36942,7 +38241,12 @@
                 "大威力",
                 "无视使伤害无效的特殊效果的攻击"
             ]
-        }
+        },
+        "img": "341",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 342,
@@ -37013,13 +38317,19 @@
             "potentialSearch2": [
                 "异攻向上"
             ],
+            "attributes": "红",
+            "class": "ASSIST",
+            "faction": "科学侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "行动开始时",
                 "攻击范围内的敌人"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "342",
+        "arrow": ""
     },
     {
         "ID": 343,
@@ -37064,7 +38374,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "とある海辺の水着喫茶ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -37098,6 +38408,10 @@
             "potentialSearch2": [
                 "异攻向上"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "自身和两临的角色"
             ],
@@ -37106,7 +38420,12 @@
                 "属性敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "343",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 344,
@@ -37150,7 +38469,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "012.jpg",
+            "attackDirection": "012",
             "obtain": "とある海辺の水着喫茶ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -37186,6 +38505,10 @@
             "potentialSearch2": [
                 "物攻向上"
             ],
+            "attributes": "蓝",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "魔术侧敌人",
@@ -37197,7 +38520,12 @@
                 "魔术侧敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "344",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 345,
@@ -37269,6 +38597,10 @@
             "potentialSearch2": [
                 "异攻向上"
             ],
+            "attributes": "红",
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "行动开始时",
                 "自身",
@@ -37276,7 +38608,9 @@
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "345",
+        "arrow": ""
     },
     {
         "ID": 346,
@@ -37347,13 +38681,19 @@
                 "物防向上",
                 "集中力向上"
             ],
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
+            "attributes": "绿",
             "skill1SearchS": [
                 "配对角色受到伤害时",
                 "我方全体"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "346",
+        "arrow": ""
     },
     {
         "ID": 347,
@@ -37400,7 +38740,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "020.jpg",
+            "attackDirection": "020",
             "obtain": "とある英国の海浜聖域ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -37436,6 +38776,10 @@
                 "异攻向上",
                 "判断力向上"
             ],
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
+            "attributes": "绿",
             "skill1SearchS": [
                 "攻击范围内的敌人"
             ],
@@ -37444,7 +38788,12 @@
                 "全体敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "347",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 348,
@@ -37490,7 +38839,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "とある英国の海浜聖域ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -37528,6 +38877,10 @@
                 "物攻向上",
                 "魔术连携力向上"
             ],
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "物理攻击",
+            "attributes": "绿",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "属性敌人",
@@ -37539,7 +38892,12 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "348",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 349,
@@ -37611,12 +38969,18 @@
             "potentialSearch2": [
                 "异防向上"
             ],
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
+            "attributes": "绿",
             "skill1SearchS": [
                 "配对角色以外的我方角色使用必殺技后"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "349",
+        "arrow": ""
     },
     {
         "ID": 350,
@@ -37685,15 +39049,21 @@
                 "异攻向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "判断力向上"
             ],
+            "attributes": "蓝",
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "全体敌人"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "350",
+        "arrow": ""
     },
     {
         "ID": 351,
@@ -37740,7 +39110,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "003.jpg",
+            "attackDirection": "003",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -37780,6 +39150,10 @@
                 "物攻向上",
                 "术式解析"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "自身",
                 "科学侧的我方全体"
@@ -37792,7 +39166,11 @@
                 "特大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "351",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 352,
@@ -37836,7 +39214,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "008.jpg",
+            "attackDirection": "008",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -37868,12 +39246,16 @@
                 "持续被害"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上",
                 "构造解析"
             ],
+            "attributes": "蓝",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "小威力",
@@ -37887,7 +39269,11 @@
                 "大威力",
                 "对科学侧敌人威力上升"
             ]
-        }
+        },
+        "img": "352",
+        "arrow": [
+            "2"
+        ]
     },
     {
         "ID": 353,
@@ -37932,7 +39318,7 @@
             "faction": "その他サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "005.jpg",
+            "attackDirection": "005",
             "obtain": "とある出会いの冒険物語ガチャ ベル編",
             "awakeningCrystal": "",
             "skill1CT": "2",
@@ -37969,6 +39355,10 @@
             "potentialSearch2": [
                 "异攻向上"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "其他阵营",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "小威力"
@@ -37980,7 +39370,12 @@
                 "特大威力",
                 "无视使伤害无效的特殊效果的攻击"
             ]
-        }
+        },
+        "img": "353",
+        "arrow": [
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 354,
@@ -38028,7 +39423,7 @@
             "faction": "その他サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "018.jpg",
+            "attackDirection": "018",
             "obtain": "とある出会いの冒険物語ガチャ アイズ編",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -38067,6 +39462,10 @@
                 "物攻向上",
                 "集中力向上"
             ],
+            "class": "BATTLE",
+            "faction": "其他阵营",
+            "attackMethod": "物理攻击",
+            "attributes": "绿",
             "skill1SearchS": [
                 "自身"
             ],
@@ -38077,7 +39476,12 @@
                 "特大威力",
                 "根据自身被赋予的强化状态的数量威力上升的攻击"
             ]
-        }
+        },
+        "img": "354",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 355,
@@ -38149,12 +39553,18 @@
             "potentialSearch2": [
                 "物攻向上"
             ],
+            "class": "ASSIST",
+            "faction": "其他阵营",
+            "attackMethod": "辅助角色",
+            "attributes": "绿",
             "skill1SearchS": [
                 "配对角色使用技能后"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "355",
+        "arrow": ""
     },
     {
         "ID": 356,
@@ -38226,12 +39636,18 @@
                 "物攻向上"
             ],
             "potentialSearch2": [
-                "器用向上"
+                "灵巧向上"
             ],
+            "attributes": "紫",
+            "class": "ASSIST",
+            "faction": "其他阵营",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "356",
+        "arrow": ""
     },
     {
         "ID": 357,
@@ -38300,13 +39716,19 @@
                 "异攻向上"
             ],
             "potentialSearch2": [
-                "器用向上",
+                "灵巧向上",
                 "SP获得量向上"
             ],
+            "attributes": "红",
+            "class": "ASSIST",
+            "faction": "其他阵营",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "357",
+        "arrow": ""
     },
     {
         "ID": 358,
@@ -38354,7 +39776,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "034.jpg",
+            "attackDirection": "034",
             "obtain": "とある出会いの冒険物語ガチャ ベル編アイズ編",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -38391,6 +39813,10 @@
             "potentialSearch2": [
                 "HP向上"
             ],
+            "attributes": "紫",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "自身"
             ],
@@ -38399,7 +39825,12 @@
                 "正面的敌人",
                 "大威力"
             ]
-        }
+        },
+        "img": "358",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 359,
@@ -38443,7 +39874,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "034.jpg",
+            "attackDirection": "034",
             "obtain": "とある組織の温泉休暇ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -38483,6 +39914,10 @@
                 "异攻向上",
                 "构造解析"
             ],
+            "attributes": "紫",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "攻击范围内包含科学侧敌人",
                 "攻击范围内的敌人",
@@ -38498,7 +39933,12 @@
                 "特大威力",
                 "当自己的HP值最大时，威力会上升"
             ]
-        }
+        },
+        "img": "359",
+        "arrow": [
+            "1",
+            "3"
+        ]
     },
     {
         "ID": 360,
@@ -38542,7 +39982,7 @@
             "faction": "科学サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "007.jpg",
+            "attackDirection": "007",
             "obtain": "とある組織の温泉休暇ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -38577,6 +40017,10 @@
             "potentialSearch2": [
                 "物防向上"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "自身和两临的角色"
             ],
@@ -38587,7 +40031,13 @@
                 "特大威力",
                 "将自身物理防御力作为物理攻击力来使用的攻击"
             ]
-        }
+        },
+        "img": "360",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 361,
@@ -38657,12 +40107,18 @@
             "potentialSearch2": [
                 "HP向上"
             ],
+            "attributes": "红",
+            "class": "ASSIST",
+            "faction": "科学侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "包含配对角色我方使用技能后"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "361",
+        "arrow": ""
     },
     {
         "ID": 362,
@@ -38734,12 +40190,18 @@
                 "HP向上",
                 "集中力向上"
             ],
+            "attributes": "紫",
+            "class": "ASSIST",
+            "faction": "科学侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "攻击范围内的敌人"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "362",
+        "arrow": ""
     },
     {
         "ID": 363,
@@ -38786,7 +40248,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "003.jpg",
+            "attackDirection": "003",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -38825,6 +40287,10 @@
                 "异攻向上",
                 "方向攻击强化"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "自身",
                 "我方全体"
@@ -38836,7 +40302,11 @@
                 "属性敌人",
                 "特大威力"
             ]
-        }
+        },
+        "img": "363",
+        "arrow": [
+            "1"
+        ]
     },
     {
         "ID": 364,
@@ -38884,7 +40354,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "021.jpg",
+            "attackDirection": "021",
             "obtain": "新キャラ！ピックアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "5",
@@ -38925,6 +40395,10 @@
                 "HP向上",
                 "判断力向上"
             ],
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
+            "attributes": "绿",
             "skill1SearchS": [
                 "攻击范围内包含魔术侧敌人",
                 "攻击范围内的敌人",
@@ -38937,7 +40411,13 @@
                 "魔术侧敌人",
                 "中威力"
             ]
-        }
+        },
+        "img": "364",
+        "arrow": [
+            "1",
+            "2",
+            "3"
+        ]
     },
     {
         "ID": 365,
@@ -38983,7 +40463,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "異能攻撃",
-            "attackDirection": "023.jpg",
+            "attackDirection": "023",
             "obtain": "とある仮装の潜入任務ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "6",
@@ -39017,12 +40497,16 @@
                 "移动不能"
             ],
             "potentialSearch1": [
-                "器用向上"
+                "灵巧向上"
             ],
             "potentialSearch2": [
                 "异攻向上",
                 "方向攻击强化"
             ],
+            "attributes": "黄",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "异能攻击",
             "skill1SearchS": [
                 "场上魔术侧角色数",
                 "魔术侧的我方全体",
@@ -39036,7 +40520,11 @@
                 "特大威力",
                 "对魔术侧敌人威力上升"
             ]
-        }
+        },
+        "img": "365",
+        "arrow": [
+            "3"
+        ]
     },
     {
         "ID": 366,
@@ -39081,7 +40569,7 @@
             "faction": "魔術サイド",
             "initialrarity": "☆3",
             "attackMethod": "物理攻撃",
-            "attackDirection": "004.jpg",
+            "attackDirection": "004",
             "obtain": "とある仮装の潜入任務ステップアップガチャ",
             "awakeningCrystal": "",
             "skill1CT": "4",
@@ -39119,6 +40607,10 @@
                 "物攻向上",
                 "构造解析"
             ],
+            "attributes": "红",
+            "class": "BATTLE",
+            "faction": "魔法侧",
+            "attackMethod": "物理攻击",
             "skill1SearchS": [
                 "攻击范围内的敌人",
                 "科学侧敌人",
@@ -39131,7 +40623,12 @@
                 "自身",
                 "大威力"
             ]
-        }
+        },
+        "img": "366",
+        "arrow": [
+            "1",
+            "2"
+        ]
     },
     {
         "ID": 367,
@@ -39201,12 +40698,18 @@
             "potentialSearch2": [
                 "异攻向上"
             ],
+            "attributes": "蓝",
+            "class": "ASSIST",
+            "faction": "魔法侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "包含配对角色我方使敌人退场时"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "367",
+        "arrow": ""
     },
     {
         "ID": 368,
@@ -39278,11 +40781,17 @@
                 "HP向上",
                 "集中力向上"
             ],
+            "attributes": "红",
+            "class": "ASSIST",
+            "faction": "科学侧",
+            "attackMethod": "辅助角色",
             "skill1SearchS": [
                 "包含配对角色我方使用技能后"
             ],
             "skill2SearchS": [],
             "nirvanaSearchS": []
-        }
+        },
+        "img": "368",
+        "arrow": ""
     }
 ]
