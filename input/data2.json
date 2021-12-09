@@ -29031,7 +29031,7 @@
             "nirvanaSearchS": [
                 "攻撃範囲内の敵",
                 "特大威力",
-                "対象のHPが多いほど威力が上昇"
+                "対象のHPが多ないほど威力が上昇"
             ]
         },
         "Chinese": {
@@ -36323,7 +36323,8 @@
             "potentialAbility2": "判断力向上＋物攻向上",
             "potentialAbility2Effect": "バトル開始時に自分のクリティカル回避率を小アップ＋物理攻撃力を中アップさせる",
             "skill1Search": [
-                "SP上昇"
+                "SP上昇",
+                "HPを回復"
             ],
             "skill2Search": [],
             "nirvanaSearch": [
@@ -36373,7 +36374,8 @@
         },
         "Chinese": {
             "skill1Search": [
-                "SP增加"
+                "SP增加",
+                "HP回复"
             ],
             "skill2Search": [],
             "nirvanaSearch": [
@@ -36554,7 +36556,8 @@
             "potentialAbility2": "異攻向上（中）",
             "potentialAbility2Effect": "バトル開始時に自分の異能攻撃力を中アップさせる",
             "skill1Search": [
-                "異攻アップ"
+                "異攻アップ",
+                "HPを回復"
             ],
             "skill2Search": [],
             "nirvanaSearch": [],
@@ -36594,7 +36597,8 @@
         },
         "Chinese": {
             "skill1Search": [
-                "异攻增加"
+                "异攻增加",
+                "HP回复"
             ],
             "skill2Search": [],
             "nirvanaSearch": [],
@@ -42264,7 +42268,8 @@
             "nirvanaSearchS": [
                 "攻撃範囲内の敵",
                 "自身",
-                "特大威力"
+                "特大威力",
+                "自身のHPが多ないほど威力が上昇"
             ],
             "role": "白井黒子",
             "hp": "11191",
@@ -42332,7 +42337,8 @@
             "nirvanaSearchS": [
                 "攻击范围内的敌人",
                 "自身",
-                "特大威力"
+                "特大威力",
+                "自身HP值越高伤害越高"
             ]
         },
         "img": "376"
@@ -42963,7 +42969,9 @@
             ],
             "skill2Search": [],
             "nirvanaSearch": [
-                "攻撃力アップ妨害"
+                "攻撃力アップ妨害",
+                "持続被害",
+                "属性耐性ダウン"
             ],
             "potentialSearch1": [
                 "異攻向上"
@@ -43028,7 +43036,9 @@
             ],
             "skill2Search": [],
             "nirvanaSearch": [
-                "攻击力提升妨碍"
+                "攻击力提升妨碍",
+                "持续被害",
+                "属性耐性降低"
             ],
             "potentialSearch1": [
                 "异攻向上"
@@ -43065,7 +43075,10 @@
             "potentialAbility1Effect": "バトル開始時に自分の器用を中アップする",
             "potentialAbility2": "物攻向上（中）",
             "potentialAbility2Effect": "バトル開始時に自分の物理攻撃力を中アップさせる",
-            "skill1Search": [],
+            "skill1Search": [
+                "物理ダメージカット",
+                "HPを回復"
+            ],
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
@@ -43120,7 +43133,10 @@
             "potentialAbility1Effect": "战斗开始时自己的灵巧中量增加。",
             "potentialAbility2": "物攻向上（中）",
             "potentialAbility2Effect": "战斗开始时自己的物理攻击力中量增加。",
-            "skill1Search": [],
+            "skill1Search": [
+                "物理伤害减轻",
+                "HP回复"
+            ],
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
@@ -43152,7 +43168,10 @@
             "potentialAbility1Effect": "バトル開始時に自分の最大HPを中アップさせる",
             "potentialAbility2": "異攻向上（中）",
             "potentialAbility2Effect": "バトル開始時に自分の異能攻撃力を中アップさせる",
-            "skill1Search": [],
+            "skill1Search": [
+                "異攻アップ",
+                "SP獲得量アップ"
+            ],
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
@@ -43207,7 +43226,10 @@
             "potentialAbility1Effect": "战斗开始时自己的最大HP中量增加。",
             "potentialAbility2": "异攻向上（中）",
             "potentialAbility2Effect": "战斗开始时自己的异能攻击力中量增加。",
-            "skill1Search": [],
+            "skill1Search": [
+                "异攻增加",
+                "SP获得量增加"
+            ],
             "skill2Search": [],
             "nirvanaSearch": [],
             "potentialSearch1": [
@@ -43240,6 +43262,8 @@
             "potentialAbility2": "集中力向上＋器用向上",
             "potentialAbility2Effect": "バトル開始時に自分のクリティカル率を小アップ＋器用を中アップさせる",
             "skill1Search": [
+                "物防アップ",
+                "クリティカル回避率アップ",
                 "SP上昇"
             ],
             "skill2Search": [],
@@ -43299,6 +43323,8 @@
             "potentialAbility2": "集中力向上+灵巧向上",
             "potentialAbility2Effect": "战斗开始时自己的暴击率少量增加，灵巧中量增加。",
             "skill1Search": [
+                "物防增加",
+                "暴击回避率增加",
                 "SP增加"
             ],
             "skill2Search": [],
@@ -43318,5 +43344,229 @@
             "nirvanaSearchS": []
         },
         "img": "386"
+    },
+    {
+        "ID": 387,
+        "nameJp": "【トンデモ発射場ガール】婚后光子",
+        "nameCn": "【隧道发射场女孩】婚后光子",
+        "Japanese": {
+            "skill1": "空力使いの守備",
+            "skill1Effect": "自身と左隣のキャラにダメージ1回分の【ガード】を1ターン付与し、【異攻アップ(中)】を3ターン付与する",
+            "skill2": "",
+            "skill2Effect": "",
+            "nirvana": "大質量投擲",
+            "nirvanaEffect": "攻撃範囲内の敵に大威力の異能攻撃をし、攻撃範囲内の黄属性の敵に【異防ダウン(大)】と【攻撃方向減少-1】を3ターン付与する",
+            "potentialAbility1": "異防向上（中）",
+            "potentialAbility1Effect": "バトル開始時に自分の異能防御力を中アップさせる",
+            "potentialAbility2": "科学連携力向上＋異攻向上",
+            "potentialAbility2Effect": "科学サイドを含む連携攻撃時の攻撃力をアップ＋バトル開始時に自分の異能攻撃力を中アップさせる",
+            "skill1Search": [
+                "ガード",
+                "異攻アップ"
+            ],
+            "skill2Search": [],
+            "nirvanaSearch": [
+                "攻撃方向減少",
+                "異防ダウン"
+            ],
+            "potentialSearch1": [
+                "異防向上"
+            ],
+            "potentialSearch2": [
+                "異攻向上",
+                "科学連携力向上"
+            ],
+            "skill1SearchS": [
+                "自身と左隣のキャラ"
+            ],
+            "skill2SearchS": [],
+            "nirvanaSearchS": [
+                "攻撃範囲内の敵",
+                "属性の敵",
+                "大威力"
+            ],
+            "role": "婚后光子",
+            "hp": "13253",
+            "dexterity": "925",
+            "physicalAttack": "6290",
+            "powerAttack": "7086",
+            "physicalDefense": "6041",
+            "powerDefense": "6338",
+            "voice": "寿美菜子",
+            "class": "バトルキャラ",
+            "attributes": "紫",
+            "faction": "科学サイド",
+            "initialrarity": "☆3",
+            "attackMethod": "異能攻撃",
+            "attackDirection": "032",
+            "obtain": "新キャラ！ピックアップガチャ",
+            "awakeningCrystal": "",
+            "skill1CT": "8",
+            "nirvanaCT": "4",
+            "skill1Code": "",
+            "skill2Code": "",
+            "nirvanaCode": "",
+            "limited": ""
+        },
+        "Chinese": {
+            "attributes": "紫",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "异能攻击",
+            "role": "婚后光子",
+            "voice": "寿美菜子",
+            "obtain": "新角色！Pick UP扭蛋",
+            "skill1": "空力使的防守",
+            "skill1Effect": "为自身与左临的角色附加1回合能够抵挡1次伤害的【护盾】，并附加3回合【异攻增加（中）】",
+            "skill2": "",
+            "skill2Effect": "",
+            "nirvana": "大质量投掷",
+            "nirvanaEffect": "对攻击范围内的敌人释放大威力的异能攻击，并为攻击范围内的黄属性敌人附加3回合【异防降低（大）】与【攻击方向减少-1】",
+            "potentialAbility1": "异防向上（中）",
+            "potentialAbility1Effect": "战斗开始时自己的异能防御力中量增加。",
+            "potentialAbility2": "科学连携力向上+异攻向上",
+            "potentialAbility2Effect": "包含科学侧的连携攻击时攻击力增加，战斗开始时自己的异能攻击力中量增加。",
+            "skill1Search": [
+                "护盾",
+                "异攻增加"
+            ],
+            "skill2Search": [],
+            "nirvanaSearch": [
+                "攻击方向减少",
+                "异防降低"
+            ],
+            "potentialSearch1": [
+                "异防向上"
+            ],
+            "potentialSearch2": [
+                "异攻向上",
+                "科学连携力向上"
+            ],
+            "skill1SearchS": [
+                "自身和左临的角色"
+            ],
+            "skill2SearchS": [],
+            "nirvanaSearchS": [
+                "攻击范围内的敌人",
+                "属性敌人",
+                "大威力"
+            ]
+        },
+        "img": "387",
+        "arrow": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "ID": 388,
+        "nameJp": "【能力の本質】帆風潤子",
+        "nameCn": "【能力的本质】帆风润子",
+        "Japanese": {
+            "skill1": "女王の懐刀",
+            "skill1Effect": "攻撃範囲内の敵に小威力の物理攻撃をし、【移動不能】を3ターン付与する",
+            "skill2": "",
+            "skill2Effect": "",
+            "nirvana": "『内なる破壊衝動』",
+            "nirvanaEffect": "攻撃範囲内の敵にダメージを無効にする特殊状態を無視して特大威力の物理攻撃をし、自身のHPを回復(中)する",
+            "potentialAbility1": "HP向上（中）",
+            "potentialAbility1Effect": "バトル開始時に自分の最大HPを中アップさせる",
+            "potentialAbility2": "科学支援：物攻向上（大）",
+            "potentialAbility2Effect": "科学サイドをアシストキャラにした場合のみ、バトル開始時に自分の物理攻撃力を大アップさせる",
+            "skill1Search": [
+                "移動不能"
+            ],
+            "skill2Search": [],
+            "nirvanaSearch": [
+                "HPを回復"
+            ],
+            "potentialSearch1": [
+                "HP向上"
+            ],
+            "potentialSearch2": [
+                "科学支援"
+            ],
+            "skill1SearchS": [
+                "攻撃範囲内の敵",
+                "小威力"
+            ],
+            "skill2SearchS": [],
+            "nirvanaSearchS": [
+                "攻撃範囲内の敵",
+                "自身",
+                "特大威力",
+                "ダメージを無効にする特殊状態を無視して攻撃"
+            ],
+            "role": "帆風潤子",
+            "hp": "14441",
+            "dexterity": "2493",
+            "physicalAttack": "7352",
+            "powerAttack": "3635",
+            "physicalDefense": "5942",
+            "powerDefense": "3658",
+            "voice": "津田美波",
+            "class": "バトルキャラ",
+            "attributes": "青",
+            "faction": "科学サイド",
+            "initialrarity": "☆3",
+            "attackMethod": "物理攻撃",
+            "attackDirection": "012",
+            "obtain": "新キャラ！ピックアップガチャ",
+            "awakeningCrystal": "",
+            "skill1CT": "6",
+            "nirvanaCT": "4",
+            "skill1Code": "",
+            "skill2Code": "",
+            "nirvanaCode": "",
+            "limited": ""
+        },
+        "Chinese": {
+            "attributes": "蓝",
+            "class": "BATTLE",
+            "faction": "科学侧",
+            "attackMethod": "物理攻击",
+            "role": "帆风润子",
+            "voice": "津田美波",
+            "obtain": "新角色！Pick UP扭蛋",
+            "skill1": "女王的心腹",
+            "skill1Effect": "对攻击范围内的敌人释放小威力的物理攻击，并附加3回合【移动不能】",
+            "skill2": "",
+            "skill2Effect": "",
+            "nirvana": "『内心的破坏冲动』",
+            "nirvanaEffect": "对攻击范围内的敌人释放无视所有使伤害无效的特殊状态的特大威力的物理攻击，并恢复自身的HP（中）",
+            "potentialAbility1": "HP向上（中）",
+            "potentialAbility1Effect": "战斗开始时自己的最大HP中量增加。",
+            "potentialAbility2": "科学支援：物攻向上（大）",
+            "potentialAbility2Effect": "辅助角色是科学侧角色时，战斗开始时自己的物理攻击力大量增加。",
+            "skill1Search": [
+                "移动不能"
+            ],
+            "skill2Search": [],
+            "nirvanaSearch": [
+                "HP回复"
+            ],
+            "potentialSearch1": [
+                "HP向上"
+            ],
+            "potentialSearch2": [
+                "科学支援"
+            ],
+            "skill1SearchS": [
+                "攻击范围内的敌人",
+                "小威力"
+            ],
+            "skill2SearchS": [],
+            "nirvanaSearchS": [
+                "攻击范围内的敌人",
+                "自身",
+                "特大威力",
+                "无视使伤害无效的特殊效果的攻击"
+            ]
+        },
+        "img": "388",
+        "arrow": [
+            "2",
+            "3"
+        ]
     }
 ]
